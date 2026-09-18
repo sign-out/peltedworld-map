@@ -1,0 +1,9 @@
+*.json
+pisa.log
+*.log
+**/detail-enrichment
+**/diagnostics
+thumbnail.jpg
+/Akana-Ris-Orbital-Station-atlas-lens/output/detail-enrichment
+/Akana-Ris-atlas-lens/output/diagnostics
+/Anseahla-atlas-lens/output/detail-enrichment
